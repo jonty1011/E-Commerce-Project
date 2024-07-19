@@ -1,0 +1,13 @@
+//tyC4rMwJNcK0tGZu  --->> password;
+
+mongodb+srv://jontysuthar:<password>@cluster30.npdumpc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster30
+
+npm uuid --> The uuid package is used to generate unique identifiers (UUIDs
+
+uuid --> (Umiversally Unique Identifiers);
+
+The disk storage engine gives you full control on storing files to disk. const storage = multer. diskStorage({ destination: function (req, file, cb)  --->> this is multer
+
+(****)  multer.diskStorage: Configures the storage engine for multer
+
+(***)destination: Specifies the directory where the uploaded files will be stored.
